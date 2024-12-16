@@ -1,0 +1,39 @@
+2024-12-16 11:56:40 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\meesa\eclipse-workspace\Framework\testng.xml
+
+2024-12-16 11:56:47 INFO  TC001_Accountregistration:17 - page open
+2024-12-16 11:56:47 INFO  TC001_Accountregistration:21 - Account is open  
+2024-12-16 11:56:47 INFO  TC001_Accountregistration:23 - Register form open  
+2024-12-16 11:56:47 INFO  TC001_Accountregistration:29 - Entered first name 
+2024-12-16 11:56:48 INFO  TC001_Accountregistration:31 - Entered Last Name   
+2024-12-16 11:56:48 INFO  TC001_Accountregistration:33 - Entered Gmail  
+2024-12-16 11:56:48 INFO  TC001_Accountregistration:36 - Password entered 
+2024-12-16 11:56:48 INFO  TC001_Accountregistration:38 - Confim password entered  
+2024-12-16 11:56:48 INFO  TC001_Accountregistration:40 - Telephone number entered 
+2024-12-16 11:57:44 INFO  TC001_Accountregistration:17 - page open
+2024-12-16 11:57:44 INFO  TC001_Accountregistration:21 - Account is open  
+2024-12-16 11:57:44 INFO  TC001_Accountregistration:23 - Register form open  
+2024-12-16 11:57:44 INFO  TC001_Accountregistration:29 - Entered first name 
+2024-12-16 11:57:44 INFO  TC001_Accountregistration:31 - Entered Last Name   
+2024-12-16 11:57:44 INFO  TC001_Accountregistration:33 - Entered Gmail  
+2024-12-16 11:57:44 INFO  TC001_Accountregistration:36 - Password entered 
+2024-12-16 11:57:44 INFO  TC001_Accountregistration:38 - Confim password entered  
+2024-12-16 11:57:45 INFO  TC001_Accountregistration:40 - Telephone number entered 
+2024-12-16 12:07:58 INFO  TC001_Accountregistration:17 - page open
+2024-12-16 12:07:58 INFO  TC001_Accountregistration:21 - Account is open  
+2024-12-16 12:07:58 INFO  TC001_Accountregistration:23 - Register form open  
+2024-12-16 12:07:58 INFO  TC001_Accountregistration:29 - Entered first name 
+2024-12-16 12:07:58 INFO  TC001_Accountregistration:31 - Entered Last Name   
+2024-12-16 12:07:59 INFO  TC001_Accountregistration:33 - Entered Gmail  
+2024-12-16 12:07:59 INFO  TC001_Accountregistration:36 - Password entered 
+2024-12-16 12:07:59 INFO  TC001_Accountregistration:38 - Confim password entered  
+2024-12-16 12:07:59 INFO  TC001_Accountregistration:40 - Telephone number entered 
+2024-12-16 12:21:29 INFO  TC001_Accountregistration:17 - page open
+2024-12-16 12:21:29 INFO  TC001_Accountregistration:21 - Account is open  
+2024-12-16 12:21:30 INFO  TC001_Accountregistration:23 - Register form open  
+2024-12-16 12:21:30 INFO  TC001_Accountregistration:29 - Entered first name 
+2024-12-16 12:21:30 INFO  TC001_Accountregistration:31 - Entered Last Name   
+2024-12-16 12:21:30 INFO  TC001_Accountregistration:33 - Entered Gmail  
+2024-12-16 12:21:30 INFO  TC001_Accountregistration:36 - Password entered 
+2024-12-16 12:21:30 INFO  TC001_Accountregistration:38 - Confim password entered  
+2024-12-16 12:21:30 INFO  TC001_Accountregistration:40 - Telephone number entered 
